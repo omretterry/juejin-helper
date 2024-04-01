@@ -16,6 +16,9 @@
   </a>
 </p>
 
+
+[![Growth](https://github.com/omretterry/juejin-helper/actions/workflows/action.yml/badge.svg)](https://github.com/omretterry/juejin-helper/actions/workflows/action.yml)
+
 ## 简介
 
 &emsp;&emsp;依赖 [GitHub Actions](https://docs.github.com/cn/actions/learn-github-actions/understanding-github-actions) 的稀土掘金助手，用于自动化每日签到、沾喜气、免费抽奖、`BugFix`等。
